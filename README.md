@@ -20,7 +20,6 @@ Furniture Bot is a comprehensive AI-powered system designed to help users create
 
 ---
 
-## 🎥 Demo
-[Insert Link to Demo Video]
+
 
 
