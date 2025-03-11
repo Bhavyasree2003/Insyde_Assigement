@@ -13,7 +13,7 @@ Furniture Bot is a comprehensive AI-powered system designed to help users create
 ---
 
 ## 🖥️ How to Use
-1. Open the chatbot interface via Streamlit.
+1. Open the chatbot .
 2. The bot will ask for **room type** and **furniture requirements**.
 3. AI processes the input and returns an **optimized furniture layout**.
 4. The layout is displayed visually in an interactive format.
